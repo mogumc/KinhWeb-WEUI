@@ -11,8 +11,13 @@ A Template For KinhWeb
 
 ## 功能
 ### V1.0.1版本
-    1. 支持在线预览  
-    2. 采用WeUI设计  
+    1.修复已知问题
+    2.优化使用体验 
+
+### 过时版本
+    V1.0.0
+      1. 支持在线预览  
+      2. 采用WeUI设计
 
 ## FaQ
 如果有任何使用问题请在群组[@KinhWeb](https://t.me/kinhweb)提出,或者在本仓库下提交Issue.  
