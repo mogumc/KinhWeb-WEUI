@@ -23,9 +23,5 @@ A Template For KinhWeb
       1. 支持在线预览  
       2. 采用WeUI设计
 
-## FaQ
-如果有任何使用问题请在群组[@KinhWeb](https://t.me/kinhweb)提出,或者在本仓库下提交Issue.  
-关注频道[@KinhWebPD](https://t.me/kinhwebpd)获取最新更新信息.  
-
 ## License
 GPL-2.0 license
